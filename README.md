@@ -1,4 +1,5 @@
-# 2017 2018 Data Structures Assignments
-Gabrielino High School
-Ki Pheng Lim
-McHard PER 5
+# 2017-2018 Data Structures Assignments
+Data Structures assignments for the 2017-2018 school year.
+
+## Usage
+Requires Java IDE.
